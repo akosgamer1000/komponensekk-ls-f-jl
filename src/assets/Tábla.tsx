@@ -4,9 +4,32 @@ export function Tábla(){
          <table>
             <thead>
                 <tr>
-                    <th></th>
+                    <th>Sorszám</th>
+                    <th>Név</th>
                 </tr>
             </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Cékla</td>   
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Feketegyökér</td>   
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Csemegekukorica</td>   
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Répa</td>   
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Görögdinnye</td>   
+                </tr>
+            </tbody>
          </table>
     </>
 }
